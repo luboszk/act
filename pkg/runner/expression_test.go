@@ -8,8 +8,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/nektos/act/pkg/exprparser"
-	"github.com/nektos/act/pkg/model"
+	"github.com/luboszk/act/pkg/exprparser"
+	"github.com/luboszk/act/pkg/model"
 	assert "github.com/stretchr/testify/assert"
 	yaml "gopkg.in/yaml.v3"
 )

@@ -12,10 +12,10 @@ import (
 
 	_ "embed"
 
-	"github.com/nektos/act/pkg/common"
-	"github.com/nektos/act/pkg/container"
-	"github.com/nektos/act/pkg/exprparser"
-	"github.com/nektos/act/pkg/model"
+	"github.com/luboszk/act/pkg/common"
+	"github.com/luboszk/act/pkg/container"
+	"github.com/luboszk/act/pkg/exprparser"
+	"github.com/luboszk/act/pkg/model"
 	"gopkg.in/yaml.v3"
 )
 

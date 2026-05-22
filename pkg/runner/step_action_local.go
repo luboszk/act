@@ -11,8 +11,8 @@ import (
 	"path"
 	"path/filepath"
 
-	"github.com/nektos/act/pkg/common"
-	"github.com/nektos/act/pkg/model"
+	"github.com/luboszk/act/pkg/common"
+	"github.com/luboszk/act/pkg/model"
 )
 
 type stepActionLocal struct {

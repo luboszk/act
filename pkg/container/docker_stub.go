@@ -7,7 +7,7 @@ import (
 	"runtime"
 
 	"github.com/moby/moby/api/types/system"
-	"github.com/nektos/act/pkg/common"
+	"github.com/luboszk/act/pkg/common"
 	"github.com/pkg/errors"
 )
 

@@ -4,7 +4,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/nektos/act/pkg/model"
+	"github.com/luboszk/act/pkg/model"
 	"github.com/stretchr/testify/assert"
 )
 
