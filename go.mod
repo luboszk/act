@@ -1,4 +1,4 @@
-module github.com/nektos/act
+module github.com/luboszk/act
 
 go 1.25.0
 
